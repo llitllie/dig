@@ -23,9 +23,7 @@
         "phpunit/phpunit": "^8",
         "phpstan/phpstan": "^0.11.8",
         "friendsofphp/php-cs-fixer": "^2.15",
-        "swoole/ide-helper": "@dev",
-        "react/http": "^0.8.4",
-        "amphp/http-server": "^1.1"
+        "swoole/ide-helper": "@dev"
     },
     "autoload": {
         "psr-4": {
