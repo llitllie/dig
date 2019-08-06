@@ -28,7 +28,8 @@
     "autoload": {
         "psr-4": {
             "Dig\\Ticket\\": "src\\Dig\\Ticket",
-            "Dig\\Zookeeper\\": "src\\Dig\\Zookeeper"
+            "Dig\\Zookeeper\\": "src\\Dig\\Zookeeper",
+            "Dig\\Conversion\\": "src\\Dig\\Conversion"
         }
     },
     "autoload-dev": {
